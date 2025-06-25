@@ -12,7 +12,7 @@ Aqui estou anotando, de forma simples e direta, o que estudei em cada dia. Pra e
 - Estrutura de exercícios por aula (organizei por pasta no GitHub)
 
 ### Prática:
-- Resolvi os exercícios gerador pelo ChatGPT de acordo com o que foi ensinado na Aula 04 da faculadde (relógio digital, contagem, tabuada, etc.)
+- Resolvi os exercícios gerados pelo ChatGPT de acordo com o que foi ensinado na Aula 04 da faculadde (relógio digital, contagem, tabuada, etc.)
 - Tive que reler algumas partes do `while`, mas funcionou depois
 - As coisas estão se encaixando melhor.
 
@@ -29,7 +29,7 @@ Aqui estou anotando, de forma simples e direta, o que estudei em cada dia. Pra e
 - Bônus por tempo de empresa e classificação por idade
 
 ### Prática:
-- Resolvi os exercícios gerador pelo ChatGPT de acordo com o que foi ensinado na Aula 03 da faculadde
+- Resolvi os exercícios gerados pelo ChatGPT de acordo com o que foi ensinado na Aula 03 da faculadde
 
 ### Observações:
 - A parte de operadores lógicos (`and`, `or`) ainda me confunde às vezes
